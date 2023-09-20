@@ -9,8 +9,8 @@ such as Python's built-in http.server to run.
 
 Steps
 -----
-1. Navigate to EstelaGif folder and run the following Command: python -m http.server
-2. Now, you can access the page/gif at http://localhost:8000/index.html in your web browser. 
+1) Navigate to EstelaGif folder and run the following Command: python -m http.server
+2) Now, you can access the page/gif at http://localhost:8000/index.html in your web browser. 
 
 The reason behind this is because when attempting to run my HTML file on Chrome, 
 I encountered security restrictions that prevented cross-origin requests when loading resources for the web page. 
