@@ -4,12 +4,16 @@ Notes | Compilation
 Compiling Gif
 -------------
 
-Instead of opening the HTML file directly from your file system, set up a local development server such as Python's built-in http.server to run.
+Instead of opening the HTML file directly from your file system, set up a local development server 
+such as Python's built-in http.server to run.
 
-Navigate to EstelaGif folder and run the following Command: python -m http.server
+Steps
+-----
+1. Navigate to EstelaGif folder and run the following Command: python -m http.server
+2. Now, you can access the page/gif at http://localhost:8000/index.html in your web browser. 
 
-Now, you can access the page/gif at http://localhost:8000/index.html in your web browser. 
-
-The reason behind this is because when attempting to run my HTML file on Chrome, I encountered security restrictions that prevented cross-origin requests when loading resources for the web page. 
-This was particularly with the particles.json file, since it uses a XMLHttpRequest from a local file origin, which is not allowed due to Cross-Origin Resource Sharing (CORS) policies. 
+The reason behind this is because when attempting to run my HTML file on Chrome, 
+I encountered security restrictions that prevented cross-origin requests when loading resources for the web page. 
+This was particularly with the particles.json file, since it uses a XMLHttpRequest from a local file origin, 
+which is not allowed due to Cross-Origin Resource Sharing (CORS) policies. 
 To resolve this, we can simply run on a local development server. 
