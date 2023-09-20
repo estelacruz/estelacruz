@@ -1,7 +1,7 @@
 
 <img src="https://github.com/estelacruz/estelacruz/blob/main/estelaGif.gif" width="800" height="400">
 
-# ҉　 ҉　 ҉　  ҉　 ҉　 ҉ &nbsp; &nbsp; Bienvenidos, Welcome to My Page &nbsp; &nbsp; ҉　 ҉　 ҉　 ҉　 ҉　 ҉　  　 
+# ҉　 ҉　 ҉　  ҉　 ҉　 &nbsp; &nbsp; Bienvenidos, Welcome to My Page &nbsp; &nbsp; ҉　 ҉　 ҉　 ҉　 ҉　   　 
 
 My name is Estela, and I'm passionate about pushing the boundaries of what's possible both inside and outside the digital realm.
 
@@ -20,7 +20,7 @@ My name is Estela, and I'm passionate about pushing the boundaries of what's pos
 | &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) |
 |  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)| &nbsp; &nbsp; &nbsp; ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)|
 
-#  ҉　 ҉　 ҉　  ҉　 ҉　 ҉　 ҉　  ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉  
+#  ҉　 ҉　 ҉　  ҉　 ҉　 ҉　 ҉　  ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　 ҉　
 # 🌐 Connect & Contact 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estelabobadilla-cruz/) [![Handshake](https://img.shields.io/badge/Handshake-FF2F1C.svg?style=for-the-badge&logo=Handshake&logoColor=white)](https://app.joinhandshake.com/stu/users/23566056) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:%22Estela%20Bobadilla-Cruz%22<estelabcruz@nyu.edu>)
 
