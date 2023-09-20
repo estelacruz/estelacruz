@@ -1,7 +1,7 @@
 
 <img src="https://github.com/estelacruz/estelacruz/blob/main/estelaGif.gif" width="800" height="400">
 
-# ҉　 ҉　 ҉　  ҉　 ҉  &nbsp; Bienvenidos, Welcome to My Page &nbsp; ҉　 ҉　 ҉　 ҉　 ҉　   　 
+# ҉　 ҉　 ҉　  ҉　 ҉  &nbsp; &nbsp; Bienvenidos, Welcome to My Page &nbsp; &nbsp; ҉　 ҉　 ҉　 ҉　 ҉　   　 
 
 My name is Estela, and I'm passionate about pushing the boundaries of what's possible both inside and outside the digital realm.
 
