@@ -1,5 +1,5 @@
 
-<img src="https://github.com/estelacruz/estelacruz/blob/main/estelaGif.gif" width="800" height="400">
+<img src="https://github.com/estelacruz/estelacruz/blob/main/estelaGif_WB.gif" width="800" height="400">
 
 #   ҉　 ҉　 ҉　  ҉　 ҉  &nbsp; &nbsp; Bienvenidos, Welcome to My Page &nbsp; &nbsp;  ҉　 ҉　 ҉　 ҉　  ҉　  
 
