@@ -1,7 +1,7 @@
 
 <img src="https://github.com/estelacruz/estelacruz/blob/main/estelaGif_WB.gif" width="800" height="400">
 
-#   ҉　 ҉　 ҉　  ҉　 ҉  &nbsp; &nbsp; Bienvenidos, Welcome to My Page &nbsp; &nbsp;  ҉　 ҉　 ҉　 ҉　  ҉　  
+#  Bienvenidos, Welcome to My Page &nbsp; &nbsp;  ҉　 
 
 My name is Estela, and I'm passionate about pushing the boundaries of what's possible both inside and outside the digital realm.
 
@@ -58,7 +58,7 @@ My name is Estela, and I'm passionate about pushing the boundaries of what's pos
 </p>
 
 
-#  ҉　 ҉　 ҉　  ҉　 ҉　 ҉　 ҉　  ҉　 ҉　  ҉　  ҉　 ҉　 ҉　 ҉　  ҉　 ҉　 ҉　 ҉　  ҉　 ҉　 ҉　  ҉　 ҉　 
+#  ҉　 ҉　 ҉　  ҉　 ҉　 ҉　 ҉　  ҉　 ҉　  ҉　  ҉　 ҉　 ҉　 ҉　   
 # 🌐 &nbsp; Contact & Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estelabobadilla-cruz/) [![Handshake](https://img.shields.io/badge/Handshake-FF2F1C.svg?style=for-the-badge&logo=Handshake&logoColor=white)](https://app.joinhandshake.com/stu/users/23566056) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:%22Estela%20Bobadilla-Cruz%22<estelabcruz@nyu.edu>)
 
