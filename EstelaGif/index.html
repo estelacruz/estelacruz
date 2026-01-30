@@ -84,26 +84,30 @@
         new Typewriter('#typewriter', {
             delay: 30,
         })
-        .typeString('Hola, Mundo!')
-            .pauseFor(3000)
+        .typeString('Hola, Mundo')
+            .pauseFor(2500)
             .deleteAll(10)
-            .typeString('Me llamo Estela Patrícia')
-            .pauseFor(3000)
+            .typeString('Soy Estela Patrícia')
+            .pauseFor(2000)
+            .deleteAll(10)
+            .pauseFor(1000)
+            .typeString('Conectémonos')
+            .pauseFor(2000)
             .deleteAll(10)
             .start();
 
         new Typewriter('#typewriter2', {
             delay: 20,
         }).pauseFor(1000)
-            .typeString('Hello, World!')
+            .typeString('Hello, World')
             .pauseFor(2000)
             .deleteAll(10)
             .pauseFor(1000)
-            .typeString('Nice to meet you!')
+            .typeString('Nice to meet you')
             .pauseFor(2000)
             .deleteAll(10)
             .pauseFor(1000)
-            .typeString('& Let\'s Connect!')
+            .typeString('Let\'s Connect!')
             .pauseFor(2000)
             .deleteAll(10)
             .start();
